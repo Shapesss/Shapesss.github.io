@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fa99992.css",
+    "main.js": "/static/js/main.e354dee3.js",
+    "static/media/video.mp4": "/static/media/video.b4efbe010226775ff28d.mp4",
+    "static/media/kirby.jpeg": "/static/media/kirby.569539fbec7f5e33f069.jpeg",
+    "static/media/Omar.png": "/static/media/Omar.564e6aa60d1e53d98a21.png",
+    "static/media/logo.png": "/static/media/logo.0c70ae08030483b5c6ff.png",
+    "index.html": "/index.html",
+    "main.2fa99992.css.map": "/static/css/main.2fa99992.css.map",
+    "main.e354dee3.js.map": "/static/js/main.e354dee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fa99992.css",
+    "static/js/main.e354dee3.js"
+  ]
+}
