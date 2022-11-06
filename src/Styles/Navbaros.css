@@ -1,0 +1,24 @@
+.El > hr {
+  color: #118a7e;
+  margin: 0 auto;
+  width: 0%;
+  transition: all 0.3s linear;
+}
+.El:hover > hr {
+  color: #118a7e;
+  width: 100%;
+}
+.El {
+  transition: all 0.3s linear;
+  color: white !important;
+}
+.El:hover {
+  color: #118a7e !important;
+}
+.bg_black {
+  position: absolute;
+  box-shadow: 0vh 0vh 2vh 0vh black;
+}
+.test {
+  width: 80%;
+}

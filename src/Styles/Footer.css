@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  background-color: transparent;
+  transition: all 0.3s linear;
+  border: 0;
+  width: 100%;
+  box-shadow: 0vh 0vh 2vh 0vh black;
+}
+.footer svg {
+  width: 0%;
+  transition: all 0.3s linear;
+}
+.footer:hover {
+  color: #118a7e;
+  cursor: default;
+}
+.footer:hover svg {
+  width: 3%;
+}

@@ -1,0 +1,40 @@
+body {
+  background-color: #1e1e1e;
+
+  background-size: cover;
+  color: rgb(244, 244, 244);
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+}
+div i {
+  font-style: normal;
+  background: rgb(35, 68, 64);
+  background: linear-gradient(
+    120deg,
+    rgba(33, 84, 78, 1) 0%,
+    rgba(59, 174, 160, 1) 100%
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#root {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+::-webkit-scrollbar {
+  background-color: #1e1e1e;
+  width: 1vh;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(44, 111, 103);
+  border-start-start-radius: 1vh;
+  border-start-end-radius: 1vh;
+  border-end-start-radius: 1vh;
+  border-end-end-radius: 1vh;
+}
+html {
+  scroll-behavior: smooth;
+}

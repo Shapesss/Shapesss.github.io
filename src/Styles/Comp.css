@@ -1,0 +1,44 @@
+.cardos2 {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e1e1e;
+}
+.cardos2 h1 {
+  background: rgb(35, 68, 64);
+  background: linear-gradient(
+    120deg,
+    rgba(33, 84, 78, 1) 0%,
+    rgba(59, 174, 160, 1) 100%
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.skill_items {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 0;
+  background-color: #1e1e1e;
+  flex-wrap: wrap;
+}
+.itemos {
+  width: 30%;
+  min-height: 30vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  border: 0;
+  background-color: #1e1e1e;
+}
+.itemos button {
+  background-color: white;
+  color: rgb(255, 208, 0);
+  border-radius: 1vh;
+}
